@@ -611,7 +611,7 @@ figcaption {
 }
 
 .section.is-dark {
-  background-color: #333;
+  background-color: #515151;
   color: #fff;
 }
 
@@ -638,7 +638,7 @@ figcaption {
 }
 
 .section.section-w-absolute-navbar.no-margin-bottom.bg-hero {
-  background-color: #ffe524;
+  background-color: #19C1DD;
 }
 
 .section.bg-shade {
@@ -3225,7 +3225,7 @@ figcaption {
   right: 0%;
   bottom: auto;
   width: 50vw;
-  background-color: #ed3c37;
+  background-color: #19C1DD;
   text-align: center;
 }
 
