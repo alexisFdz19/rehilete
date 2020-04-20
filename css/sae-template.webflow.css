@@ -3281,8 +3281,8 @@ figcaption {
   z-index: -1;
   width: 100%;
   height: 800px;
-  background-image: url('https://via.placeholder.com/1000x600.png?text=IMAGE');
-  background-position: 0px -1px;
+  background-image: url('../images/fondo1.png');
+  background-position: 0px 0px;
   background-size: contain;
   background-repeat: no-repeat;
 }
