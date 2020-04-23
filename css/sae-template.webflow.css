@@ -143,10 +143,37 @@
 */
 
 body {
-  font-family: 'Gothic A1', sans-serif;
+  /*font-family: 'Gothic A1', sans-serif;*/
+  font-family: 'Source Sans Pro', sans-serif;
   color: #333;
   font-size: 16px;
   line-height: 1.5;
+}
+
+@font-face {
+
+  font-family: 'regatto';
+  src: url('../fonts/regatto/kit/RegattoBold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@font-face {
+
+  font-family: 'movingskate';
+  src: url('../fonts/movingskate/kit/moving_skate-webfont.woff') format('woff'),
+      url('../fonts/movingskate/kit/moving_skate-webfont.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+h1, h2, h3, h4, h5, h6{
+
+  font-family: 'regatto';
+
+
 }
 
 h1 {
