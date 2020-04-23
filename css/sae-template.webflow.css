@@ -4412,6 +4412,14 @@ figcaption {
 }
 
 @media (max-width: 479px) {
+
+  #logoNav{
+
+    width: 50%;
+
+
+  }
+
   .col.lg-6.xs-12 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 100%;
