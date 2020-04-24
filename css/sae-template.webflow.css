@@ -146,8 +146,15 @@ body {
   /*font-family: 'Gothic A1', sans-serif;*/
   font-family: 'Source Sans Pro', sans-serif;
   color: #333;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.5;
+}
+
+.iconoNuestraAgencia{
+
+  color: #D82B3F;
+
+
 }
 
 @font-face {
@@ -557,7 +564,7 @@ figcaption {
 
 .pre-title {
   margin-bottom: 12px;
-  color: #0061ff;
+  color: #D82B3F;
   font-size: 11px;
   font-weight: 700;
   letter-spacing: 0.1em;
@@ -638,8 +645,8 @@ figcaption {
 }
 
 .section.is-dark {
-  background-color: #515151;
-  color: #fff;
+  background-color: #FEFCEF;
+  color: #505050;
 }
 
 .section.bg-accent.bg-blog {
@@ -804,7 +811,8 @@ figcaption {
 }
 
 .bg-accent {
-  background-color: #f7faff;
+  /*background-color: #f7faff;*/
+  background-color: #FEFCEF;
 }
 
 
@@ -825,7 +833,7 @@ figcaption {
   -ms-flex: 0 auto;
   flex: 0 auto;
   border-radius: 40px;
-  background-color: #ee3c37;
+  background-color: #D82B3F;
   font-family: Montserrat, sans-serif;
   color: #fff;
   font-size: 12px;
@@ -1479,7 +1487,7 @@ figcaption {
 }
 
 .footer-nav-link.on-dark {
-  color: #e7e7e7;
+  color: #505050;
 }
 
 .footer-nav-link.on-dark:hover {
@@ -3228,7 +3236,8 @@ figcaption {
 
 .c-carousel1__item {
   padding-bottom: 10px;
-  background-color: #f7faff;
+  /*background-color: #f7faff;*/
+  background-color: #FEFCEF;
 }
 
 .c-carousel1__image {
@@ -3345,7 +3354,7 @@ figcaption {
 .bg-decoration2 {
   position: absolute;
   left: 50%;
-  top: -50%;
+  top: -80%;
   right: 0%;
   bottom: auto;
   width: 1290px;
@@ -3559,7 +3568,7 @@ figcaption {
 
 .c-listbox {
   padding: 32px;
-  background-color: #003894;
+  background-color: #FD9800;
   color: #fff;
 }
 
@@ -3575,19 +3584,19 @@ figcaption {
 
 .email-footer {
   border-bottom: 1px solid hsla(0, 0%, 100%, 0.41);
-  color: #fff;
+  color: #505050;
 }
 
 .email-footer:hover {
-  color: #ed3c37;
+  color: #D82B3E;
 }
 
 .phone-footer {
-  color: #fff;
+  color: #505050;
 }
 
 .phone-footer:hover {
-  color: #ed3c37;
+  color: #D82B3E;
 }
 
 .footer-tagline {
