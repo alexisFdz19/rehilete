@@ -22,6 +22,13 @@
 /*
 > -01. Checkbox
 */
+
+.listaWeb{
+
+  font-size: 13px;
+
+}
+
 .w-checkbox {
   display: block;
   margin-bottom: 5px;
@@ -3147,7 +3154,7 @@ figcaption {
 }
 
 .c-carousel1__head {
-  padding: 24px 24px 24px 0px;
+  padding: 24px 24px 150px 0px;
 }
 
 .c-carousel1__nav {
@@ -3212,26 +3219,26 @@ figcaption {
   margin-right: 8px;
   padding: 6px 4px 6px 7px;
   border-radius: 50%;
-  background-color: #ed3c37;
+  background-color: #52B534;
   color: #fff;
   font-size: 12px;
   text-align: center;
 }
 
 .c-grid-process_step-number.color2 {
-  background-color: #1dc236;
+  background-color: #52B534;
 }
 
 .c-grid-process_step-number.color3 {
-  background-color: #b47b00;
+  background-color: #52B534;
 }
 
 .c-grid-process_step-number.color4 {
-  background-color: #8f37ed;
+  background-color: #52B534;
 }
 
 .c-grid-process_step-number.color5 {
-  background-color: #ff29c6;
+  background-color: #52B534;
 }
 
 .c-carousel1__item {
@@ -3376,9 +3383,9 @@ figcaption {
   width: 3500px;
   max-width: none;
   padding-bottom: 19px;
-  opacity: 0.11;
+  /*opacity: 0.11;
   -webkit-filter: hue-rotate(180deg);
-  filter: hue-rotate(180deg);
+  filter: hue-rotate(180deg);*/
 }
 
 .bg-decoration4 {
