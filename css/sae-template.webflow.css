@@ -4211,6 +4211,7 @@ figcaption {
   }
   .no-margin-bottom-lg {
     margin-bottom: 32px;
+    margin-top: 32px;
   }
   .full-half-block {
     position: static;
