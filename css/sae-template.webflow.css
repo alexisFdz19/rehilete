@@ -23,16 +23,37 @@
 > -01. Checkbox
 */
 
+.back-to-top {
+  position: fixed;
+  bottom: 25px;
+  right: 25px;
+  display: none;
+  background-color: #FE9801;
+  color: white;
+  padding: 13px;
+  border-radius: 5px;
+}
+
+.back-to-top:hover{
+  
+  background-color: #FE9801;
+  color: white;
+
+}
+
+.back-to-top:active{
+
+  background-color: #FE9801;
+  color: white;
+
+}
+
 .fb_dialog {
-  position: fixed !important;
-  bottom: 100px !important;
   left: 20px !important;
   right: initial !important;
 }
 
 #fb-root iframe {
-  position: fixed !important;
-  bottom: 100px !important;
   left: 20px !important;
   right: initial !important;
 }
