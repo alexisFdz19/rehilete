@@ -24,9 +24,9 @@
 */
 
 .fb_dialog {
-  position: fixed;
+  position: fixed !important;
   left: 20px !important;
-  bottom: 100px;
+  bottom: 100px !important;
   right: initial !important;
 }
 
