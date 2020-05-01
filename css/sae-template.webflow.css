@@ -23,14 +23,14 @@
 > -01. Checkbox
 */
 
-.fb-root{
+.fb_dialog {
+  left: 20px !important;
+  right: initial !important;
+}
 
-  position: fixed;
-  right: 26px;
-  bottom: 100px;
-  /*width: ;*/
-  z-index: 1000;
-
+#fb-root iframe {
+  left: 20px !important;
+  right: initial !important;
 }
 
 .listaWeb{
