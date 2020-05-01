@@ -25,12 +25,14 @@
 
 .fb_dialog {
   position: fixed !important;
-  left: 20px !important;
   bottom: 100px !important;
+  left: 20px !important;
   right: initial !important;
 }
 
 #fb-root iframe {
+  position: fixed !important;
+  bottom: 100px !important;
   left: 20px !important;
   right: initial !important;
 }
