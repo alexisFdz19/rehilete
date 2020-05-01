@@ -23,6 +23,16 @@
 > -01. Checkbox
 */
 
+.fb-root{
+
+  position: fixed;
+  right: 26px;
+  bottom: 100px;
+  /*width: ;*/
+  z-index: 1000;
+
+}
+
 .listaWeb{
 
   font-size: 13px;
