@@ -50,7 +50,7 @@
 
 }
 
-.fb_dialog {
+/*.fb_dialog {
   bottom: 80px !important;
   
 }
@@ -58,6 +58,24 @@
 #fb-root iframe {
   bottom: 140px !important;
   
+}*/
+
+.appWhatsApp{
+
+  position: fixed;
+  right: 26px;
+  bottom: 100px;
+  width: 60px;
+  z-index: 1000;
+
+}
+
+.appWhatsApp img{
+
+  width: 100%;
+  height: auto;
+  border-radius: 50px;
+
 }
 
 .listaWeb{
