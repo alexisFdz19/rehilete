@@ -52,6 +52,7 @@
 
 .fb_dialog {
   bottom: 80px !important;
+  width: 2px !important;
   
 }
 
