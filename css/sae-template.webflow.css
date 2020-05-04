@@ -51,18 +51,20 @@
 }
 
 .fb_dialog {
-  bottom: 70px !important;
+  bottom: 120px !important;
+  width: 80% !important;
   
 }
 
 #fb-root iframe {
-  bottom: 100px !important;
+  bottom: 120px !important;
+  width: 80% !important;
   
 }
 
 .listaWeb{
 
-  font-size: 100px;
+  font-size: 120px;
 
 }
 
