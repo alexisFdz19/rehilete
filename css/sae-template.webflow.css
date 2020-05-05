@@ -763,7 +763,7 @@ figcaption {
 }
 
 .section.is-header.bg-accent.position-relative.bg-img3 {
-  background-image: url('https://via.placeholder.com/1000x600.png?text=IMAGE');
+  background-image: url('../images/create.jpg');
   background-position: 100% 50%;
   background-size: contain;
   background-repeat: no-repeat;
