@@ -79,6 +79,12 @@
 
 }
 
+.navsHome{
+
+  color: white;
+
+}
+
 .listaWeb{
 
   font-size: 120px;
@@ -3185,23 +3191,24 @@ figcaption {
   position: absolute;
   left: auto;
   top: -124px;
-  right: -40px;
+  right: -10px;
   bottom: auto;
   z-index: -1;
   width: 700px;
 }
 
 .c-hero1__img.adjust1 {
-  top: -50px;
+  top: -30px;
+  width: 550px;
 }
 
 .c-hero1__img.adjust2 {
-  top: -17px;
-  width: 640px;
+  top: -60px;
+  width: 600px;
 }
 
 .c-hero1__img.adjust3 {
-  top: -46px;
+  top: -70px;
   width: 640px;
 }
 
