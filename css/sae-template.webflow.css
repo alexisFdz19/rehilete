@@ -762,7 +762,7 @@ figcaption {
 }
 
 .section.is-header.bg-accent.position-relative.bg-img2 {
-  background-image: url('https://via.placeholder.com/1000x600.png?text=IMAGE');
+  background-image: url('../images/cover.jpg');
   background-position: 100% 0%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -780,7 +780,7 @@ figcaption {
 }
 
 .section.is-header.no-padding-bottom.overflow-hidden.bg-contact {
-  background-image: url('https://via.placeholder.com/1000x600.png?text=IMAGE');
+  background-image: url('../images/cover2.jpg');
   background-position: 0% 100%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -3655,6 +3655,7 @@ figcaption {
 .email-footer {
   border-bottom: 1px solid hsla(0, 0%, 100%, 0.41);
   color: #505050;
+  font-size: 13px;
 }
 
 .email-footer:hover {
@@ -3806,6 +3807,11 @@ figcaption {
 */
 
 @media (max-width: 991px) {
+  .navsHome{
+
+    color: black;
+  
+  }
   .container {
     -webkit-flex-wrap: wrap;
     -ms-flex-wrap: wrap;
