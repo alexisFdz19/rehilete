@@ -3655,7 +3655,7 @@ figcaption {
 .email-footer {
   border-bottom: 1px solid hsla(0, 0%, 100%, 0.41);
   color: #505050;
-  font-size: 13px;
+  font-size: 12px;
 }
 
 .email-footer:hover {
