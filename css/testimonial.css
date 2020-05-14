@@ -1,0 +1,137 @@
+.testimonial{
+
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    grid-gap: 20px;
+    box-sizing: border-box;
+    padding: 10px;
+
+}
+
+.testimonial .box{
+
+    position: relative;
+    padding: 80px 40px 40px;
+    transition: 0.5s;
+    text-align: center;
+    background: #ffffff;
+
+}
+
+.testimonial .box:hover{
+
+    background: #F79920;
+
+
+}
+
+.testimonial .box p{
+
+    margin: 0;
+    padding: 0;
+    transition: 0.5s;
+
+}
+
+.testimonial .box h4{
+
+    margin: 20px 0 0;
+    padding: 0;
+    transition: 0.5s;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 20px;
+
+}
+
+.testimonial .box h4 span{
+
+    font-weight: 600;
+    font-size: 14px;
+    color: #c5c5c5;
+    transition: 0.5s;
+
+
+}
+
+.testimonial .box:hover p, 
+.testimonial .box:hover h4, 
+.testimonial .box:hover h4 span{
+
+    color: #ffffff;
+
+}
+
+.testimonial .box .imgBox{
+
+    position: absolute;
+    top: -60px;
+    left: 50%;
+    transform: translate(-50%);
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    overflow: hidden;
+
+}
+
+.testimonial .box:before{
+
+    content: '';
+    position: absolute;
+    top: 20px;
+    right: 40px;
+    width: 80px;
+    height: 80px;
+    background: url(../icons/signs.png);
+    background-size: cover;
+    opacity: 0.05;
+    pointer-events: none;
+    transition: 0.5s;
+
+}
+
+.testimonial .box:hover:before{
+
+    transform: translateY(-60px);
+    opacity: 1;
+
+
+}
+
+.testimonial .box:after{
+
+    content: '';
+    position: absolute;
+    bottom: 20px;
+    left: 40px;
+    width: 80px;
+    height: 80px;
+    background: url(../icons/signs.png);
+    background-size: cover;
+    opacity: 0.05;
+    pointer-events: none;
+    transition: 0.5s;
+    transform: rotate(180deg)translateY(0px);
+
+}
+
+.testimonial .box:hover:after{
+
+    transform: rotate(180deg)translateY(-60px);
+    opacity: 1;
+
+
+}
+
+@media (max-width: 768px){
+
+    .testimonial .box{
+
+        margin-top: 80px;
+
+    }
+
+
+}
