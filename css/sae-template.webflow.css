@@ -23,6 +23,19 @@
 > -01. Checkbox
 */
 
+.videoPortafolioTamaño{
+
+  width: 351px;
+  height: 211px;
+
+}
+
+.itemPortafolio{
+
+  margin-right: 20px;
+
+}
+
 
 .back-to-top {
   position: fixed;
@@ -769,7 +782,7 @@ figcaption {
 }
 
 .section.is-header.bg-accent.position-relative.bg-img3 {
-  background-image: url('../images/create.jpg');
+  background-image: url('../images/Portafolio.png');
   background-position: 100% 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -3220,6 +3233,10 @@ figcaption {
   padding: 24px 24px 150px 0px;
 }
 
+.c-carousel1__head2 {
+  padding: 24px 24px 110px 0px;
+}
+
 .c-carousel1__nav {
   left: auto;
   top: auto;
@@ -3308,6 +3325,11 @@ figcaption {
   padding-bottom: 10px;
   /*background-color: #f7faff;*/
   background-color: #FEFCEF;
+}
+
+.c-carousel1__item2 {
+  padding-bottom: 10px;
+
 }
 
 .c-carousel1__image {
@@ -3903,6 +3925,22 @@ figcaption {
 */
 
 @media (max-width: 991px) {
+
+  .videoPortafolioTamaño{
+
+    width: 288px;
+    height: 148px;
+
+}
+
+  .c-carousel1__head {
+    padding: 24px 24px 24px 0px;
+  }
+  
+  .c-carousel1__head2 {
+    padding: 24px 24px 0px 24px;
+  }
+
   .navsHome{
 
     color: black;
