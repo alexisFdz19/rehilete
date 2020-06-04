@@ -16,7 +16,7 @@
 
     <meta charset="utf-8">
     <title>Rehilete Agencia Digital</title>
-    <meta name="description" content="Somos una agencia digital publicitaria en Playa Del Carmen enfocada en diseñar y alinear estrategias integrales y eficaces para posicionar tu marca."/>
+    <meta name="description" content="Somos una agencia digital de marketing en Playa Del Carmen enfocada en diseñar y alinear estrategias integrales y eficaces para posicionar tu marca."/>
     <meta content="width=device-width, initial-scale=1" name="viewport">
     <meta content="Webflow" name="generator">
     <meta name="theme-color" content="#19C1DD"/>

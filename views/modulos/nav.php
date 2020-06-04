@@ -46,7 +46,7 @@
                     
                                     <div>
                                     
-                                        <a href="index"><img class="logo" id="logoNav" src="http://localhost/rehilete/rehilete/views/icons/logoblanco2.png" alt="logo Rehilete" width="27%"></a>
+                                        <a href="index"><img class="logo" id="logoNav" src="http://localhost/rehilete/rehilete/views/icons/logo-rehilete-04.png" alt="logo Rehilete" width="27%"></a>
                                 
                                     </div>
                     
@@ -108,7 +108,7 @@
                     
                                     <div>
                                     
-                                        <a href="index"><img class="logo" id="logoNav" src="http://localhost/rehilete/rehilete/views/icons/logogris.png" alt="logo Rehilete" width="27%"></a>
+                                        <a href="index"><img class="logo" id="logoNav" src="http://localhost/rehilete/rehilete/views/icons/logo-rehilete-03.png" alt="logo Rehilete" width="27%"></a>
                                 
                                     </div>
                     
@@ -172,7 +172,7 @@
             
                             <div>
                             
-                                <a href="index"><img class="logo" id="logoNav" src="http://localhost/rehilete/rehilete/views/icons/logoblanco2.png" alt="logo Rehilete" width="27%"></a>
+                                <a href="index"><img class="logo" id="logoNav" src="http://localhost/rehilete/rehilete/views/icons/logo-rehilete-03.png" alt="logo Rehilete" width="27%"></a>
                         
                             </div>
             

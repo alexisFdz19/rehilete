@@ -4,7 +4,7 @@
 
       <div class="col lg-3 flexv-space-between md-12">
 
-        <img class="logo" id="logoNav" src="<?php echo $url?>views/icons/logogris.png" alt="logo Rehilete" width="50%">
+        <img class="logo" id="logoNav" src="<?php echo $url?>views/icons/logo-rehilete-02.png" alt="logo Rehilete" width="80%">
 
       </div>
 
@@ -16,7 +16,11 @@
 
           <div class="col lg-3 no-margin-bottom-lg md-12">
 
-            <div class="size-h4 margin-bottom">Nuestra ubicación</div>
+            <div class="size-h4 margin-bottom">Nuestra ubicación<br><br>
+
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3733.825808895604!2d-87.08212188507393!3d20.635955786212495!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDM4JzA5LjQiTiA4N8KwMDQnNDcuOCJX!5e0!3m2!1sen!2smx!4v1591303270052!5m2!1sen!2smx" width="100%" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
+            </div>
 
           </div>
 
@@ -27,6 +31,8 @@
             <p><a href="mailto:manager@agenciarehilete.com" class="email-footer">manager@agenciarehilete.com</a></p>
 
             <div><a href="tel:+522221492260" class="phone-footer">+52 222-149-2260</a></div>
+
+            <div><a href="tel:+522221492260" class="phone-footer">+52 984-117-9519</a></div>
 
           </div>
 

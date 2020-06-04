@@ -30,7 +30,7 @@
 
               <p class="text-large weight-is-thin margin-bottom">Un diseño atractivo, dinámico y de fácil interacción es fundamental para lograr que este sea la mejor herramienta para hacer crecer tu empresa.</p>
 
-              <a data-w-id="974b567f-e3b9-419b-95ea-81c8d11aaa5b" style="-webkit-transform:translate3d(0, 27PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 27PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 27PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 27PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" href="<?php echo $url?>servicios" class="button-primary animated w-inline-block">
+              <a data-w-id="974b567f-e3b9-419b-95ea-81c8d11aaa5b" style="-webkit-transform:translate3d(0, 27PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 27PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 27PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 27PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" href="<?php echo $url?>servicios#diseno" class="button-primary animated w-inline-block">
 
                 <div style="-webkit-transform:translate3d(0, 0PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:1" class="button-primary-text">Ver más</div>
 
@@ -76,7 +76,7 @@
 
               <p class="text-large weight-is-thin margin-bottom">Te compartimos herramientas e información para darle un impulso a tu marca, dentro y fuera de tu organización.</p>
 
-              <a data-w-id="8d5b9a46-bcf6-4098-e92b-348204377239" style="-webkit-transform:translate3d(0, 27PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 27PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 27PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 27PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" href="<?php echo $url?>servicios" class="button-primary animated w-inline-block">
+              <a data-w-id="8d5b9a46-bcf6-4098-e92b-348204377239" style="-webkit-transform:translate3d(0, 27PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 27PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 27PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 27PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" href="<?php echo $url?>servicios#consultoria" class="button-primary animated w-inline-block">
 
                 <div style="-webkit-transform:translate3d(0, 0PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:1" class="button-primary-text">Ver más</div>
 
@@ -122,7 +122,7 @@
 
               <p class="text-large weight-is-thin margin-bottom">Nuestra misión es posicionar tu marca para encontrar clientes potenciales.</p>
 
-              <a data-w-id="e6e099c3-37bd-0d1a-d303-0de5fa6cf59e" style="-webkit-transform:translate3d(0, 27PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 27PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 27PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 27PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" href="<?php echo $url?>servicios" class="button-primary animated w-inline-block">
+              <a data-w-id="e6e099c3-37bd-0d1a-d303-0de5fa6cf59e" style="-webkit-transform:translate3d(0, 27PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 27PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 27PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 27PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" href="<?php echo $url?>servicios#campanas" class="button-primary animated w-inline-block">
 
                 <div style="-webkit-transform:translate3d(0, 0PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:1" class="button-primary-text">Ver más</div>
 
@@ -168,7 +168,7 @@
 
               <p class="text-large weight-is-thin margin-bottom">Te ayudamos a crear una imagen atractiva para tu audiencia.</p>
 
-              <a data-w-id="0a266773-b86c-da20-5df0-d9f666042a25" style="-webkit-transform:translate3d(0, 27PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 27PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 27PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 27PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" href="<?php echo $url?>servicios" class="button-primary animated w-inline-block">
+              <a data-w-id="0a266773-b86c-da20-5df0-d9f666042a25" style="-webkit-transform:translate3d(0, 27PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 27PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 27PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 27PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" href="<?php echo $url?>servicios#animacion" class="button-primary animated w-inline-block">
 
                 <div style="-webkit-transform:translate3d(0, 0PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:1" class="button-primary-text">Ver más</div>
 
@@ -231,7 +231,7 @@
 
           <div class="margin-bottom">Comunicamos el valor de tu marca desde un enfoque visual.</div>
           
-          <a href="<?php echo $url?>servicios" class="cta-link"><span class="margin-right">Conoce más</span> <span class="fa c-cta1_arrow-hovered"></span> <span class="fa c-cta1__arrow-normal"></span></a>
+          <a href="<?php echo $url?>servicios#animacion" class="cta-link"><span class="margin-right">Conoce más</span> <span class="fa c-cta1_arrow-hovered"></span> <span class="fa c-cta1__arrow-normal"></span></a>
         
         </div>
 
@@ -249,7 +249,7 @@
 
           </div>
 
-          <div class="margin-bottom">Transmitimos la historia y esencia de tu producto por medio de contenidos visuales.</div><a href="<?php echo $url?>servicios" class="cta-link"><span class="margin-right">Conoce más</span> <span class="fa c-cta1_arrow-hovered"></span> <span class="fa c-cta1__arrow-normal"></span></a>
+          <div class="margin-bottom">Transmitimos la historia y esencia de tu producto por medio de contenidos visuales.</div><a href="<?php echo $url?>servicios#video" class="cta-link"><span class="margin-right">Conoce más</span> <span class="fa c-cta1_arrow-hovered"></span> <span class="fa c-cta1__arrow-normal"></span></a>
         
         </div>
 
@@ -269,7 +269,7 @@
 
           <div class="margin-bottom">Diseñamos plataformas interactivas, navegables, eficaces y sobre todo con imagen y contenido relevante.</div>
           
-          <a href="<?php echo $url?>servicios" class="cta-link"><span class="margin-right">Conoce más</span> <span class="fa c-cta1_arrow-hovered"></span> <span class="fa c-cta1__arrow-normal"></span></a>
+          <a href="<?php echo $url?>servicios#web" class="cta-link"><span class="margin-right">Conoce más</span> <span class="fa c-cta1_arrow-hovered"></span> <span class="fa c-cta1__arrow-normal"></span></a>
         
         </div>
 
@@ -289,7 +289,7 @@
 
           <div class="margin-bottom">Te acompañamos en el proceso de integración a las redes sociales, te ayudamos a crear y gestionar los perfiles de tu negocio.</div>
           
-          <a href="<?php echo $url?>servicios" class="cta-link"><span class="margin-right">Conoce más</span> <span class="fa c-cta1_arrow-hovered"></span> <span class="fa c-cta1__arrow-normal"></span></a>
+          <a href="<?php echo $url?>servicios#redes" class="cta-link"><span class="margin-right">Conoce más</span> <span class="fa c-cta1_arrow-hovered"></span> <span class="fa c-cta1__arrow-normal"></span></a>
         
         </div>
         

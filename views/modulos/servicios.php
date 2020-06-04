@@ -1,4 +1,4 @@
-<div class="section is-header bg-accent position-relative overflow-hidden">
+  <div class="section is-header bg-accent position-relative bg-img4">
 
     <div class="container flex-horizontal position-relative">
 
@@ -6,23 +6,27 @@
 
         <div class="breadcrumb margin-bottom-double"><a href="<?php echo $url?>">Inicio</a><span class="fa margin-left-small margin-right-small is-xsmall"></span>Servicios</div>
 
-        <div class="header-content-wrapper is-transparent no-padding-trbl">
+        <div class="header-content-wrapper">
 
-          <h1>Creamos estrategias para que tu marca conecte con tu audiencia</h1>
+          <div class="pre-title">Servicios</div>
+
+          <h3>Creamos estrategias para que tu marca conecte con tu audiencia</h3>
 
           <div class="text-medium">Potenciamos marcas por medio de soluciones creativas y prácticas para conectar con tus consumidores, mira todo lo que podemos ofrecerte.</div>
-          
+
         </div>
 
       </div>
 
+      <div class="col lg-1"></div>
+
+      <div class="col lg-6 no-margin-bottom md-12"></div>
+
     </div>
-    
-    <img src="<?php echo $url?>views/images/blob3.svg" alt="" class="bg-decoration9">
-  
+
   </div>
 
-  <div class="section position-relative overflow-hidden scrollflow -pop -opacity">
+  <div class="section position-relative overflow-hidden scrollflow -pop -opacity" id="diseno">
 
     <div class="container flex-horizontal position-relative">
 
@@ -99,7 +103,7 @@
 
   </div>
 
-  <div class="section position-relative scrollflow -slide-bottom -opacity">
+  <div class="section position-relative scrollflow -slide-bottom -opacity" id="video">
 
     <div class="container flex-horizontal">
 
@@ -176,7 +180,7 @@
   
     </div>
 
-    <div class="section position-relative overflow-hidden scrollflow -opacity">
+    <div class="section position-relative overflow-hidden scrollflow -opacity" id="web">
 
       <div class="container flex-horizontal position-relative">
   
@@ -303,7 +307,7 @@
   
     </div>
 
-    <div class="section position-relative scrollflow -slide-bottom -opacity">
+    <div class="section position-relative scrollflow -slide-bottom -opacity" id="campanas">
 
       <div class="container flex-horizontal">
   
@@ -381,7 +385,7 @@
     
       </div>
 
-    <div class="section position-relative overflow-hidden scrollflow -opacity">
+    <div class="section position-relative overflow-hidden scrollflow -opacity" id="redes">
 
       <div class="container flex-horizontal position-relative">
   
@@ -439,7 +443,7 @@
         <div class="col lg-6 md-12 text-align-center">
   
           
-          <img src="images/redes.png" width="65%" alt="">
+          <img src="<?php echo $url?>views/images/redes.png" width="65%" alt="">
             
   
         </div>
@@ -460,7 +464,7 @@
     
       </div>
 
-    <div class="section position-relative scrollflow -pop -opacity">
+    <div class="section position-relative scrollflow -pop -opacity" id="animacion">
 
       <div class="container flex-horizontal">
   
@@ -538,7 +542,7 @@
     
       </div>
 
-    <div class="section position-relative overflow-hidden scrollflow -slide-bottom -opacity">
+    <div class="section position-relative overflow-hidden scrollflow -slide-bottom -opacity" id="consultoria">
 
       <div class="container flex-horizontal position-relative">
   

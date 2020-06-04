@@ -788,6 +788,13 @@ figcaption {
   background-repeat: no-repeat;
 }
 
+.section.is-header.bg-accent.position-relative.bg-img4 {
+  background-image: url('../images/servicios.jpg');
+  background-position: 100% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
 .section.is-header.style2 {
   border-bottom: 1px solid hsla(0, 0%, 60.7%, 0.3);
 }
