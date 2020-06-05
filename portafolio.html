@@ -18,6 +18,7 @@
 
   <link href="css/normalize.css" rel="stylesheet" type="text/css">
   <link href="css/webflow.css" rel="stylesheet" type="text/css">
+  <link href="css/layout.css">
   <link href="css/sae-template.webflow.css" rel="stylesheet" type="text/css">
   <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300&display=swap" rel="stylesheet">
   <link href="css/animate.css" rel="stylesheet" type="text/css">
@@ -137,7 +138,353 @@
 
     <div class="section position-relative no-padding-top">
 
-      <div class="container scrollflow -slide-top -opacity">
+      <div class="container scrollflow">
+
+      <ul id="filters" class="clearfix">
+        <li><span class="filter active" data-filter=".app, .card, .icon, .logo, .web">Todo</span></li>
+        <li><span class="filter" data-filter=".app">Diseño gráfico</span></li>
+        <li><span class="filter" data-filter=".card">Desarrollo web</span></li>
+        <li><span class="filter" data-filter=".icon">Video y motion graphics</span></li>
+        <!--<li><span class="filter" data-filter=".logo">Logo</span></li>
+        <li><span class="filter" data-filter=".web">Web</span></li>-->
+      </ul>
+
+      </div>
+
+      <br>
+
+      <div class="container scrollflow">
+        
+          <div id="portfoliolist">
+
+            <div class="portfolio app" data-cat="app">
+              <a href="peñoles">
+                <div class="portfolio-wrapper">			
+                  <img src="images/porta-01.jpg" alt="" />
+                  <div class="label">
+                    <div class="label-text">
+                      <a class="tituloProyecto">Peñoles</a>
+                      <!--<span class="text-category">APP</span>-->
+                    </div>
+                    <div class="label-bg"></div>
+                  </div>
+                </div>
+              </a>
+            </div>
+
+            <div class="portfolio app" data-cat="app">
+              <a href="nulab">
+                <div class="portfolio-wrapper">			
+                  <img src="images/porta-02.jpg" alt="" />
+                  <div class="label">
+                    <div class="label-text">
+                      <a class="tituloProyecto">Nulab</a>
+                      <!--<span class="text-category">APP</span>-->
+                    </div>
+                    <div class="label-bg"></div>
+                  </div>
+                </div>
+              </a>
+            </div>
+
+            <div class="portfolio app" data-cat="app">
+              <a href="cimaco">
+                <div class="portfolio-wrapper">			
+                  <img src="images/porta-03.jpg" alt="" />
+                  <div class="label">
+                    <div class="label-text">
+                      <a class="tituloProyecto">Cimaco</a>
+                      <!--<span class="text-category">APP</span>-->
+                    </div>
+                    <div class="label-bg"></div>
+                  </div>
+                </div>
+              </a>
+            </div>
+
+            <div class="portfolio app" data-cat="app">
+              <a href="oriental-grill">
+                <div class="portfolio-wrapper">			
+                  <img src="images/porta-04.jpg" alt="" />
+                  <div class="label">
+                    <div class="label-text">
+                      <a class="tituloProyecto">Oriental Grill</a>
+                      <!--<span class="text-category">APP</span>-->
+                    </div>
+                    <div class="label-bg"></div>
+                  </div>
+                </div>
+              </a>
+            </div>
+
+            <div class="portfolio app" data-cat="app">
+              <a href="looper">
+                <div class="portfolio-wrapper">			
+                  <img src="images/porta-05.jpg" alt="" />
+                  <div class="label">
+                    <div class="label-text">
+                      <a class="tituloProyecto">Looper</a>
+                      <!--<span class="text-category">APP</span>-->
+                    </div>
+                    <div class="label-bg"></div>
+                  </div>
+                </div>
+              </a>
+            </div>
+
+            <div class="portfolio app" data-cat="app">
+              <a href="dulce-nostalgia">
+                <div class="portfolio-wrapper">			
+                  <img src="images/porta-06.jpg" alt="" />
+                  <div class="label">
+                    <div class="label-text">
+                      <a class="tituloProyecto">Dulce Nostalgia</a>
+                      <!--<span class="text-category">APP</span>-->
+                    </div>
+                    <div class="label-bg"></div>
+                  </div>
+                </div>
+              </a>
+            </div>
+
+            <div class="portfolio app" data-cat="app">
+              <a href="lucuma">
+                <div class="portfolio-wrapper">			
+                  <img src="images/porta-07.jpg" alt="" />
+                  <div class="label">
+                    <div class="label-text">
+                      <a class="tituloProyecto">Lúcuma</a>
+                      <!--<span class="text-category">APP</span>-->
+                    </div>
+                    <div class="label-bg"></div>
+                  </div>
+                </div>
+              </a>
+            </div>
+
+            <div class="portfolio app" data-cat="app">
+              <a href="gf-24">
+                <div class="portfolio-wrapper">			
+                  <img src="images/porta-08.jpg" alt="" />
+                  <div class="label">
+                    <div class="label-text">
+                      <a class="tituloProyecto">GF24</a>
+                      <!--<span class="text-category">APP</span>-->
+                    </div>
+                    <div class="label-bg"></div>
+                  </div>
+                </div>
+              </a>
+            </div>
+
+            <div class="portfolio app" data-cat="app">
+              <a href="la-pampa">
+                <div class="portfolio-wrapper">			
+                  <img src="images/porta-09.jpg" alt="" />
+                  <div class="label">
+                    <div class="label-text">
+                      <a class="tituloProyecto">La Pampa</a>
+                      <!--<span class="text-category">APP</span>-->
+                    </div>
+                    <div class="label-bg"></div>
+                  </div>
+                </div>
+              </a>
+            </div>
+
+            <div class="portfolio app" data-cat="app">
+              <a href="malbicho">
+                <div class="portfolio-wrapper">			
+                  <img src="images/porta-10.jpg" alt="" />
+                  <div class="label">
+                    <div class="label-text">
+                      <a class="tituloProyecto">Malbicho</a>
+                      <!--<span class="text-category">APP</span>-->
+                    </div>
+                    <div class="label-bg"></div>
+                  </div>
+                </div>
+              </a>
+            </div>
+
+            <div class="portfolio card" data-cat="card">
+              <a href="https://naturaturquesatours.com/" target="_blank">
+                <div class="portfolio-wrapper">			
+                  <img src="images/naturat.jpg" alt="" />
+                  <div class="label">
+                    <div class="label-text">
+                      <a class="tituloProyecto">Natura Turquesa</a>
+                      <!--<span class="text-category">APP</span>-->
+                    </div>
+                    <div class="label-bg"></div>
+                  </div>
+                </div>
+              </a>
+            </div>
+
+            <div class="portfolio card" data-cat="card">
+              <a href="http://renaceriviera.com/" target="_blank">
+                <div class="portfolio-wrapper">			
+                  <img src="images/renace2.jpg" alt="" />
+                  <div class="label">
+                    <div class="label-text">
+                      <a class="tituloProyecto">Renace Aesthetics</a>
+                      <!--<span class="text-category">APP</span>-->
+                    </div>
+                    <div class="label-bg"></div>
+                  </div>
+                </div>
+              </a>
+            </div>
+
+            <div class="portfolio card" data-cat="card">
+              <a href="https://glomastore.mx/" target="_blank">
+                <div class="portfolio-wrapper">			
+                  <img src="images/glomastore.jpg" alt="" />
+                  <div class="label">
+                    <div class="label-text">
+                      <a class="tituloProyecto">GlomaStore</a>
+                      <!--<span class="text-category">APP</span>-->
+                    </div>
+                    <div class="label-bg"></div>
+                  </div>
+                </div>
+              </a>
+            </div>
+
+            <div class="portfolio card" data-cat="card">
+              <a href="https://medicoenlinea.mx/" target="_blank">
+                <div class="portfolio-wrapper">			
+                  <img src="images/medicoenlinea.jpg" alt="" />
+                  <div class="label">
+                    <div class="label-text">
+                      <a class="tituloProyecto">Médico en Línea</a>
+                      <!--<span class="text-category">APP</span>-->
+                    </div>
+                    <div class="label-bg"></div>
+                  </div>
+                </div>
+              </a>
+            </div>
+
+            <div class="portfolio icon" data-cat="icon">
+              <div class="portfolio-wrapper">			
+                <video class="videoPortafolio videoPortafolioTamaño" src="video/videoxcaret.mp4" type="video/mp4"></video>
+                <div class="label">
+                  <div class="label-text">
+                    <a class="tituloProyecto">Grupo Xcaret</a>
+                    <!--<span class="text-category">APP</span>-->
+                  </div>
+                  <div class="label-bg"></div>
+                </div>
+              </div>
+            </div>
+
+            <div class="portfolio icon" data-cat="icon">
+              <div class="portfolio-wrapper">			
+                <video class="videoPortafolio2 videoPortafolioTamaño" src="video/Dann Garcia V1.mp4" type="video/mp4"></video>
+                <div class="label">
+                  <div class="label-text">
+                    <a class="tituloProyecto">Tour Gastronómico</a>
+                    <!--<span class="text-category">APP</span>-->
+                  </div>
+                  <div class="label-bg"></div>
+                </div>
+              </div>
+            </div>
+
+            <div class="portfolio icon" data-cat="icon">
+              <div class="portfolio-wrapper">			
+                <video class="videoPortafolio3 videoPortafolioTamaño" src="video/Final agradecimiento covid v2.mp4" type="video/mp4"></video>
+                <div class="label">
+                  <div class="label-text">
+                    <a class="tituloProyecto">COVID-19</a>
+                    <!--<span class="text-category">APP</span>-->
+                  </div>
+                  <div class="label-bg"></div>
+                </div>
+              </div>
+            </div>
+
+            <div class="portfolio icon" data-cat="icon">
+              <div class="portfolio-wrapper">			
+                <video class="videoPortafolio10 videoPortafolioTamaño" src="video/Haz que suceda, el show - Promo.mp4" type="video/mp4"></video>
+                <div class="label">
+                  <div class="label-text">
+                    <a class="tituloProyecto">Haz que suceda el show</a>
+                    <!--<span class="text-category">APP</span>-->
+                  </div>
+                  <div class="label-bg"></div>
+                </div>
+              </div>
+            </div>
+
+            <div class="portfolio icon" data-cat="icon">
+              <div class="portfolio-wrapper">			
+                <video class="videoPortafolio6 videoPortafolioTamaño" src="video/logo lice.mp4" type="video/mp4" type="video/mp4"></video>
+                <div class="label">
+                  <div class="label-text">
+                    <a class="tituloProyecto">Lice México</a>
+                    <!--<span class="text-category">APP</span>-->
+                  </div>
+                  <div class="label-bg"></div>
+                </div>
+              </div>
+            </div>
+
+            <!--<div class="portfolio icon" data-cat="icon">
+              <div class="portfolio-wrapper">			
+                <video class="videoPortafolio8 videoPortafolioTamaño" src="video/Información Coronavirus.mp4" type="video/mp4" type="video/mp4"></video>
+                <div class="label">
+                  <div class="label-text">
+                    <a class="tituloProyecto">Grupo Xcaret COVID-19</a>
+                    <span class="text-category">APP</span>
+                  </div>
+                  <div class="label-bg"></div>
+                </div>
+              </div>
+            </div>-->
+
+            <div class="portfolio icon" data-cat="icon">
+              <div class="portfolio-wrapper">			
+                <video class="videoPortafolio5 videoPortafolioTamaño" src="video/dia mujer 2020.mp4" type="video/mp4" type="video/mp4"></video>
+                <div class="label">
+                  <div class="label-text">
+                    <a class="tituloProyecto">Día de la Mujer 2020</a>
+                    <!--<span class="text-category">APP</span>-->
+                  </div>
+                  <div class="label-bg"></div>
+                </div>
+              </div>
+            </div>
+
+            <div class="portfolio icon" data-cat="icon">
+              <div class="portfolio-wrapper">			
+                <video class="videoPortafolio7 videoPortafolioTamaño" src="video/Promo Muevete Youtube.mp4" type="video/mp4" type="video/mp4"></video>
+                <div class="label">
+                  <div class="label-text">
+                    <a class="tituloProyecto">Promo Muévete</a>
+                    <!--<span class="text-category">APP</span>-->
+                  </div>
+                  <div class="label-bg"></div>
+                </div>
+              </div>
+            </div>
+
+            <div class="portfolio icon" data-cat="icon">
+              <div class="portfolio-wrapper">			
+                <video class="videoPortafolio9 videoPortafolioTamaño" src="video/Celia Lora Animación.mp4" type="video/mp4"></video>
+                <div class="label">
+                  <div class="label-text">
+                    <a class="tituloProyecto">Celia Lora</a>
+                    <!--<span class="text-category">APP</span>-->
+                  </div>
+                  <div class="label-bg"></div>
+                </div>
+              </div>
+            </div>
+          
+          </div>
   
         <!--<div class="col lg-12 position-relative">
   
@@ -662,7 +1009,7 @@
   </div>
 
 
-  <div class="container">
+  <!--<div class="container">
 
     <div class="col text-align-center block-centered">
 
@@ -672,123 +1019,8 @@
 
     </div>
 
-  </div>
-  
-  <div class="container flex-horizontal container-wrap">
-    
-    <div class="col lg-3 md-12 margin-bottom-quad">
-      
-      <a href="single-post.html" class="w-inline-block">
-      
-        <img src="images/naturat.jpg" alt="" class="margin-bottom">  
+  </div>-->
 
-      </a>
-
-      <!--<div class="c-gridpost__category">
-        
-        <a href="#">Branding</a> / <a href="#">Diseño gráfico</a>
-      
-      </div>-->
-
-      <h3 class="c-carousel1__title">How to build up growth team’s performance</h3>
-
-      <!--<div class="margin-bottom">Nullam id dolor id nibh ultricies vehicula ut id elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</div>
-      
-      <a href="single-post.html" class="cta-link">
-        
-        <span class="margin-right">Read more</span>
-        <span class="fa c-cta1_arrow-hovered"></span>
-        <span class="fa c-cta1__arrow-normal"></span>
-      
-      </a>-->
-    
-    </div>
-
-    <div class="col lg-3 md-12 margin-bottom-quad">
-      
-      <a href="single-post.html" class="w-inline-block">
-      
-        <img src="images/naturat.jpg" alt="" class="margin-bottom">  
-
-      </a>
-
-      <!--<div class="c-gridpost__category">
-        
-        <a href="#">Branding</a> / <a href="#">Diseño gráfico</a>
-      
-      </div>-->
-
-      <h3 class="c-carousel1__title">How to build up growth team’s performance</h3>
-
-      <!--<div class="margin-bottom">Nullam id dolor id nibh ultricies vehicula ut id elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</div>
-      
-      <a href="single-post.html" class="cta-link">
-        
-        <span class="margin-right">Read more</span>
-        <span class="fa c-cta1_arrow-hovered"></span>
-        <span class="fa c-cta1__arrow-normal"></span>
-      
-      </a>-->
-    
-    </div>
-
-    <div class="col lg-3 md-12 margin-bottom-quad">
-      
-      <a href="single-post.html" class="w-inline-block">
-      
-        <img src="images/naturat.jpg" alt="" class="margin-bottom">  
-
-      </a>
-
-      <!--<div class="c-gridpost__category">
-        
-        <a href="#">Branding</a> / <a href="#">Diseño gráfico</a>
-      
-      </div>-->
-
-      <h3 class="c-carousel1__title">How to build up growth team’s performance</h3>
-
-      <!--<div class="margin-bottom">Nullam id dolor id nibh ultricies vehicula ut id elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</div>
-      
-      <a href="single-post.html" class="cta-link">
-        
-        <span class="margin-right">Read more</span>
-        <span class="fa c-cta1_arrow-hovered"></span>
-        <span class="fa c-cta1__arrow-normal"></span>
-      
-      </a>-->
-    
-    </div>
-
-    <div class="col lg-3 md-12 margin-bottom-quad">
-      
-      <a href="single-post.html" class="w-inline-block">
-      
-        <img src="images/naturat.jpg" alt="" class="margin-bottom">  
-
-      </a>
-
-      <!--<div class="c-gridpost__category">
-        
-        <a href="#">Branding</a> / <a href="#">Diseño gráfico</a>
-      
-      </div>-->
-
-      <h3 class="c-carousel1__title">How to build up growth team’s performance</h3>
-
-      <!--<div class="margin-bottom">Nullam id dolor id nibh ultricies vehicula ut id elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</div>
-      
-      <a href="single-post.html" class="cta-link">
-        
-        <span class="margin-right">Read more</span>
-        <span class="fa c-cta1_arrow-hovered"></span>
-        <span class="fa c-cta1__arrow-normal"></span>
-      
-      </a>-->
-    
-    </div>
-
-  </div>
 
 </div>
   
@@ -937,6 +1169,10 @@
   <script src="js/backtotop.js"></script>
 
   <script src="js/videoPortafolio.js"></script>
+
+  <script src="js/portafolio.js"></script>
+
+  <script src="js/jquery.mixitup.min.js"></script>
 
   <a id="back-to-top" href="#" class="btn btn-light btn-lg back-to-top" role="button" name="botonTop" style="display: inline;"><i class="fas fa-chevron-up"></i></a>
 
