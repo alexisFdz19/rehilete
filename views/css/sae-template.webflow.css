@@ -985,21 +985,21 @@ figcaption {
 }
 
 .section.is-header.bg-accent.position-relative.bg-img2 {
-  background-image: url('../images/nosotros.jpg');
+  background-image: url('../images/nosotros2.jpg');
   background-position: 100% 0%;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 .section.is-header.bg-accent.position-relative.bg-img3 {
-  background-image: url('../images/Portafolio.png');
+  background-image: url('../images/Portafolio2.jpg');
   background-position: 100% 50%;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 .section.is-header.bg-accent.position-relative.bg-img4 {
-  background-image: url('../images/servicios.jpg');
+  background-image: url('../images/servicios2.jpg');
   background-position: 100% 50%;
   background-size: contain;
   background-repeat: no-repeat;
