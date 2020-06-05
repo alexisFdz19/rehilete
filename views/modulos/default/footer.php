@@ -44,6 +44,7 @@
 
                 $item = null;
                 $valor = null;
+                $i = 0; // contador
 
                 $paginas = ControladorPaginas::ctrMostrarPaginas($item, $valor);
 
@@ -54,6 +55,8 @@
                     <a href="'.$value["ruta"].'" class="footer-nav-link is-bold on-dark">'.$value["nombre"].'</a>
                     
                     ';
+
+                  if (++$i == 5) break; //termina de contar solo las páginas que irán en el menú
 
                 }
 

@@ -134,7 +134,7 @@
 
             <div class="col lg-5 md-12 align-bottom order-first">
               
-              <img src="<?php echo $url?>views/images/campañas.png" alt="" class="c-hero1__img adjust2">
+              <img src="<?php echo $url?>views/images/campanas.png" alt="" class="c-hero1__img adjust2">
             
             </div>
 
@@ -333,7 +333,7 @@
 
                 <div class="c-carousel1__item">
                   
-                  <img src="<?php echo $url?>views/images/animación.png" alt="" class="c-carousel1__image">
+                  <img src="<?php echo $url?>views/images/animacion2.png" alt="" class="c-carousel1__image">
 
                   <h4 class="c-carousel1__title">Animación 2D</h4>
 
@@ -347,7 +347,7 @@
 
               <a href="<?php echo $url?>servicios" class="c-carousel1__content w-inline-block">
 
-                <div class="c-carousel1__item"><img src="<?php echo $url?>views/images/asesoría.png" alt="" class="c-carousel1__image">
+                <div class="c-carousel1__item"><img src="<?php echo $url?>views/images/asesoria.png" alt="" class="c-carousel1__image">
 
                   <h3 class="c-carousel1__title">Asesoria y capacitación</h3>
 
@@ -441,7 +441,7 @@
 
           <img src="<?php echo $url?>views/images/sanatorio.jpg" alt="" class="c-grid-partner__logo">
 
-          <img src="<?php echo $url?>views/images/peñoles.jpg" alt="" class="c-grid-partner__logo">
+          <img src="<?php echo $url?>views/images/penoles.jpg" alt="" class="c-grid-partner__logo">
 
           <img src="<?php echo $url?>views/images/looper.jpg" alt="" class="c-grid-partner__logo">
         
@@ -680,7 +680,7 @@
 
           <div class="imgBox">
 
-            <img src="<?php echo $url?>views/images/peñoles.jpg">
+            <img src="<?php echo $url?>views/images/penoles.jpg">
 
           </div>
 

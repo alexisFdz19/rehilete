@@ -1,10 +1,10 @@
-<div class="section is-header bg-accent position-relative bg-img3">
+  <div class="section is-header bg-accent position-relative bg-img3">
 
     <div class="container flex-horizontal position-relative">
 
       <div class="col lg-8 md-12">
 
-        <div class="breadcrumb margin-bottom-double"><a href="<?php echo $url?>">Inicio</a><span class="fa margin-left-small margin-right-small is-xsmall"></span>Portafolio</div>
+        <div class="breadcrumb margin-bottom-double"><a href="#">Inicio</a><span class="fa margin-left-small margin-right-small is-xsmall"></span>Portafolio</div>
 
         <div class="header-content-wrapper">
 
@@ -38,536 +38,368 @@
 
         <h2>Cada proyecto tiene un propósito, nuestro trabajo es ayudarte a hacerlo realidad.</h2>
 
+        <p>*El diseño y uso de logotipos son propiedad de las empresas.<br></p>
+
       </div>
 
     </div>
 
     <div class="section position-relative no-padding-top">
 
-      <div class="container scrollflow -slide-top -opacity">
-  
-        <div class="col lg-12 position-relative">
-  
-          <div class="container c-carousel1__container">
-  
-            <div class="col h100 md-12">
-              
-              <div class="c-carousel1__head2 bg-white">
-  
-                <div class="pre-title">Contenidos visuales</div>
-  
-                <h2>Video y Motion Graphics</h2>
-  
-                <p>*El diseño y uso de logotipos son propiedad de las empresas.<br></p>
-  
-              </div>
-  
-            </div>
-  
-          </div>
-  
-          <div data-animation="slide" data-easing="ease-in-out-quint" data-hide-arrows="1" data-duration="1000" class="c-carousel1 w-slider">
-  
-            <div class="c-carousel1__wrapper w-slider-mask">
-  
-              <div class="w-slide itemPortafolio">
-  
-                <!--<a href="#" class="c-carousel1__content w-inline-block">-->
-  
-                  <div class="c-carousel1__item2">
-                    
-                    <video class="videoPortafolio videoPortafolioTamaño" src="<?php echo $url?>views/video/videoxcaret.mp4" type="video/mp4" poster="images/xcaret.jpg"></video>
-  
-                    <h4 class="c-carousel1__title">Grupo Xcaret Logo</h4>
-  
-                  </div>
-  
-                <!--</a>-->
-  
-              </div>
-  
-              <div class="w-slide itemPortafolio">
-  
-                <!--<a href="#" class="c-carousel1__content w-inline-block">-->
-  
-                  <div class="c-carousel1__item2">
-                    
-                    <video class="videoPortafolio2 videoPortafolioTamaño" src="<?php echo $url?>views/video/Dann Garcia V1.mp4" type="video/mp4"></video>
-  
-                    <h3 class="c-carousel1__title">Tour Gastronómico</h3>
-  
-                  </div>
-  
-                <!--</a>-->
-  
-              </div>
-  
-              <div class="w-slide itemPortafolio">
-  
-                <!--<a href="#" class="c-carousel1__content w-inline-block">-->
-  
-                  <div class="c-carousel1__item2">
-                    
-                    <video class="videoPortafolio3 videoPortafolioTamaño" src="<?php echo $url?>views/video/Final agradecimiento covid v2.mp4" type="video/mp4"></video>
-  
-                    <h4 class="c-carousel1__title">COVID-19</h4>
-  
-                  </div>
-  
-                <!--</a>-->
-  
-              </div>
+      <div class="container scrollflow">
 
-              <div class="w-slide itemPortafolio">
-  
-                <!--<a href="#" class="c-carousel1__content w-inline-block">-->
-  
-                  <div class="c-carousel1__item2">
-                    
-                    <video class="videoPortafolio10 videoPortafolioTamaño" src="<?php echo $url?>views/video/Haz que suceda, el show - Promo.mp4" type="video/mp4"></video>
-  
-                    <h4 class="c-carousel1__title">Haz que suceda el show</h4>
-  
-                  </div>
-  
-                <!--</a>-->
-  
-              </div>
-
-              <div class="w-slide itemPortafolio">
-  
-                <!--<a href="#" class="c-carousel1__content w-inline-block">-->
-  
-                  <div class="c-carousel1__item2">
-                    
-                    <video class="videoPortafolio9 videoPortafolioTamaño" src="<?php echo $url?>views/video/Celia Lora Animación.mp4" type="video/mp4"></video>
-  
-                    <h4 class="c-carousel1__title">Celia Lora</h4>
-  
-                  </div>
-  
-                <!--</a>-->
-  
-              </div>
-
-              <div class="w-slide itemPortafolio">
-  
-                <!--<a href="#" class="c-carousel1__content w-inline-block">-->
-  
-                  <div class="c-carousel1__item2">
-                    
-                    <video class="videoPortafolio6 videoPortafolioTamaño" src="<?php echo $url?>views/video/logo lice.mp4" type="video/mp4"></video>
-  
-                    <h4 class="c-carousel1__title">LICE México</h4>
-  
-                  </div>
-  
-                <!--</a>-->
-  
-              </div>
-
-              <div class="w-slide itemPortafolio">
-  
-                <!--<a href="#" class="c-carousel1__content w-inline-block">-->
-  
-                  <div class="c-carousel1__item2">
-                    
-                    <video class="videoPortafolio8 videoPortafolioTamaño" src="<?php echo $url?>views/video/Información Coronavirus.mp4" type="video/mp4"></video>
-  
-                    <h4 class="c-carousel1__title">Grupo Xcaret COVID-19</h4>
-  
-                  </div>
-  
-                <!--</a>-->
-  
-              </div>
-
-              <div class="w-slide itemPortafolio">
-  
-                <!--<a href="#" class="c-carousel1__content w-inline-block">-->
-  
-                  <div class="c-carousel1__item2">
-                    
-                    <video class="videoPortafolio5 videoPortafolioTamaño" src="<?php echo $url?>views/video/dia mujer 2020.mp4" type="video/mp4"></video>
-  
-                    <h4 class="c-carousel1__title">Día de la Mujer 2020</h4>
-  
-                  </div>
-  
-                <!--</a>-->
-  
-              </div>
-
-              <div class="w-slide itemPortafolio">
-  
-                <!--<a href="#" class="c-carousel1__content w-inline-block">-->
-  
-                  <div class="c-carousel1__item2">
-                    
-                    <video class="videoPortafolio7 videoPortafolioTamaño" src="<?php echo $url?>views/video/Promo Muevete Youtube.mp4" type="video/mp4"></video>
-  
-                    <h4 class="c-carousel1__title">Muévete</h4>
-  
-                  </div>
-  
-                <!--</a>-->
-  
-              </div>
-  
-            </div>
-  
-            <div class="w-slider-arrow-left">
-  
-              <div class="c-carousel1__left-arrow w-icon-slider-left"></div>
-  
-            </div>
-  
-            <div class="c-carousel1-2__right-arrow w-slider-arrow-right">
-  
-              <div class="c-carousel1__right-arrow w-icon-slider-right"></div>
-  
-            </div>
-  
-            <div class="c-carousel1__nav w-slider-nav w-slider-nav-invert w-round"></div>
-  
-          </div>
-  
-        </div>
-  
-      </div>
-    
-    </div>
-
-  </div>
-
-  <div class="section position-relative no-padding-top">
-
-    <div class="container scrollflow -slide-top -opacity">
-
-      <div class="col lg-12 position-relative">
-
-        <div class="container c-carousel1__container">
-
-          <div class="col h100 md-12">
-            
-            <div class="c-carousel1__head2 bg-white">
-
-              <div class="pre-title">Web</div>
-
-              <h2>Diseño y desarrollo web</h2>
-
-              <p>*El diseño y uso de logotipos son propiedad de las empresas.<br></p>
-
-            </div>
-
-          </div>
-
-        </div>
-
-        <div data-animation="slide" data-easing="ease-in-out-quint" data-hide-arrows="1" data-duration="1000" class="c-carousel1 w-slider">
-
-          <div class="c-carousel1__wrapper w-slider-mask">
-
-            <div class="w-slide itemPortafolio">
-
-              <a href="http://renaceriviera.com/" target="_blank" class="c-carousel1__content w-inline-block">
-
-                <div class="c-carousel1__item2">
-                  
-                  <img src="<?php echo $url?>views/images/renace2.jpg" alt="" class="c-carousel1__image">
-
-                  <h4 class="c-carousel1__title">Renace Aesthetics</h4>
-
-                </div>
-
-              </a>
-
-            </div>
-
-            <div class="w-slide itemPortafolio">
-
-              <a href="https://naturaturquesatours.com/" target="_blank" class="c-carousel1__content w-inline-block">
-
-                <div class="c-carousel1__item2">
-                  
-                  <img src="<?php echo $url?>views/images/naturat.jpg" alt="" class="c-carousel1__image">
-
-                  <h3 class="c-carousel1__title">Natura Turquesa Transfers</h3>
-
-                </div>
-
-              </a>
-
-            </div>
-
-            <div class="w-slide itemPortafolio">
-
-              <a href="https://glomastore.mx/" target="_blank" class="c-carousel1__content w-inline-block">
-
-                <div class="c-carousel1__item2">
-                  
-                  <img src="<?php echo $url?>views/images/glomastore.jpg" alt="" class="c-carousel1__image">
-
-                  <h3 class="c-carousel1__title">GlomaStore</h3>
-
-                </div>
-
-              </a>
-
-            </div>
-
-            <div class="w-slide itemPortafolio">
-
-              <a href="https://medicoenlinea.mx/" target="_blank" class="c-carousel1__content w-inline-block">
-
-                <div class="c-carousel1__item2">
-                  
-                  <img src="<?php echo $url?>views/images/medicoenlinea.jpg" alt="" class="c-carousel1__image">
-
-                  <h3 class="c-carousel1__title">Médico en Línea</h3>
-
-                </div>
-
-              </a>
-
-            </div>
-
-          </div>
-
-          <div class="w-slider-arrow-left">
-
-            <div class="c-carousel1__left-arrow w-icon-slider-left"></div>
-
-          </div>
-
-          <div class="c-carousel1-2__right-arrow w-slider-arrow-right">
-
-            <div class="c-carousel1__right-arrow w-icon-slider-right"></div>
-
-          </div>
-
-          <div class="c-carousel1__nav w-slider-nav w-slider-nav-invert w-round"></div>
-
-        </div>
+      <ul id="filters" class="clearfix">
+        <li><span class="filter active" data-filter=".app, .card, .icon, .logo, .web">Todo</span></li>
+        <li><span class="filter" data-filter=".app">Diseño gráfico</span></li>
+        <li><span class="filter" data-filter=".card">Desarrollo web</span></li>
+        <li><span class="filter" data-filter=".icon">Video</span></li>
+        <!--<li><span class="filter" data-filter=".logo">Logo</span></li>
+        <li><span class="filter" data-filter=".web">Web</span></li>-->
+      </ul>
 
       </div>
 
-    </div>
-  
-  </div>
+      <br>
 
-  <div class="section position-relative no-padding-top">
+      <div class="container scrollflow">
+        
+          <div id="portfoliolist">
 
-    <div class="container scrollflow -slide-top -opacity">
-
-      <div class="col lg-12 position-relative">
-
-        <div class="container c-carousel1__container">
-
-          <div class="col h100 md-12">
-            
-            <div class="c-carousel1__head2 bg-white">
-
-              <div class="pre-title">Branding</div>
-
-              <h2>Diseño gráfico</h2>
-
-              <p>*El diseño y uso de logotipos son propiedad de las empresas.<br></p>
-
+            <div class="portfolio app" data-cat="app">
+              <a href="penoles">
+                <div class="portfolio-wrapper">			
+                  <img src="<?php echo $url?>views/images/porta-01.jpg" alt="" />
+                  <div class="label">
+                    <div class="label-text">
+                      <a class="tituloProyecto">Peñoles</a>
+                      <!--<span class="text-category">APP</span>-->
+                    </div>
+                    <div class="label-bg"></div>
+                  </div>
+                </div>
+              </a>
             </div>
 
+            <div class="portfolio app" data-cat="app">
+              <a href="nulab">
+                <div class="portfolio-wrapper">			
+                  <img src="<?php echo $url?>views/images/porta-02.jpg" alt="" />
+                  <div class="label">
+                    <div class="label-text">
+                      <a class="tituloProyecto">Nulab</a>
+                      <!--<span class="text-category">APP</span>-->
+                    </div>
+                    <div class="label-bg"></div>
+                  </div>
+                </div>
+              </a>
+            </div>
+
+            <div class="portfolio app" data-cat="app">
+              <a href="cimaco">
+                <div class="portfolio-wrapper">			
+                  <img src="<?php echo $url?>views/images/porta-03.jpg" alt="" />
+                  <div class="label">
+                    <div class="label-text">
+                      <a class="tituloProyecto">Cimaco</a>
+                      <!--<span class="text-category">APP</span>-->
+                    </div>
+                    <div class="label-bg"></div>
+                  </div>
+                </div>
+              </a>
+            </div>
+
+            <div class="portfolio app" data-cat="app">
+              <a href="oriental-grill">
+                <div class="portfolio-wrapper">			
+                  <img src="<?php echo $url?>views/images/porta-04.jpg" alt="" />
+                  <div class="label">
+                    <div class="label-text">
+                      <a class="tituloProyecto">Oriental Grill</a>
+                      <!--<span class="text-category">APP</span>-->
+                    </div>
+                    <div class="label-bg"></div>
+                  </div>
+                </div>
+              </a>
+            </div>
+
+            <div class="portfolio app" data-cat="app">
+              <a href="looper">
+                <div class="portfolio-wrapper">			
+                  <img src="<?php echo $url?>views/images/porta-05.jpg" alt="" />
+                  <div class="label">
+                    <div class="label-text">
+                      <a class="tituloProyecto">Looper</a>
+                      <!--<span class="text-category">APP</span>-->
+                    </div>
+                    <div class="label-bg"></div>
+                  </div>
+                </div>
+              </a>
+            </div>
+
+            <div class="portfolio app" data-cat="app">
+              <a href="dulce-nostalgia">
+                <div class="portfolio-wrapper">			
+                  <img src="<?php echo $url?>views/images/porta-06.jpg" alt="" />
+                  <div class="label">
+                    <div class="label-text">
+                      <a class="tituloProyecto">Dulce Nostalgia</a>
+                      <!--<span class="text-category">APP</span>-->
+                    </div>
+                    <div class="label-bg"></div>
+                  </div>
+                </div>
+              </a>
+            </div>
+
+            <div class="portfolio app" data-cat="app">
+              <a href="lucuma">
+                <div class="portfolio-wrapper">			
+                  <img src="<?php echo $url?>views/images/porta-07.jpg" alt="" />
+                  <div class="label">
+                    <div class="label-text">
+                      <a class="tituloProyecto">Lúcuma</a>
+                      <!--<span class="text-category">APP</span>-->
+                    </div>
+                    <div class="label-bg"></div>
+                  </div>
+                </div>
+              </a>
+            </div>
+
+            <div class="portfolio app" data-cat="app">
+              <a href="gf-24">
+                <div class="portfolio-wrapper">			
+                  <img src="<?php echo $url?>views/images/porta-08.jpg" alt="" />
+                  <div class="label">
+                    <div class="label-text">
+                      <a class="tituloProyecto">GF24</a>
+                      <!--<span class="text-category">APP</span>-->
+                    </div>
+                    <div class="label-bg"></div>
+                  </div>
+                </div>
+              </a>
+            </div>
+
+            <div class="portfolio app" data-cat="app">
+              <a href="la-pampa">
+                <div class="portfolio-wrapper">			
+                  <img src="<?php echo $url?>views/images/porta-09.jpg" alt="" />
+                  <div class="label">
+                    <div class="label-text">
+                      <a class="tituloProyecto">La Pampa</a>
+                      <!--<span class="text-category">APP</span>-->
+                    </div>
+                    <div class="label-bg"></div>
+                  </div>
+                </div>
+              </a>
+            </div>
+
+            <div class="portfolio app" data-cat="app">
+              <a href="malbicho">
+                <div class="portfolio-wrapper">			
+                  <img src="<?php echo $url?>views/images/porta-10.jpg" alt="" />
+                  <div class="label">
+                    <div class="label-text">
+                      <a class="tituloProyecto">Malbicho</a>
+                      <!--<span class="text-category">APP</span>-->
+                    </div>
+                    <div class="label-bg"></div>
+                  </div>
+                </div>
+              </a>
+            </div>
+
+            <div class="portfolio card" data-cat="card">
+              <a href="https://naturaturquesatours.com/" target="_blank">
+                <div class="portfolio-wrapper">			
+                  <img src="<?php echo $url?>views/images/naturat.jpg" alt="" />
+                  <div class="label">
+                    <div class="label-text">
+                      <a class="tituloProyecto">Natura Turquesa</a>
+                      <!--<span class="text-category">APP</span>-->
+                    </div>
+                    <div class="label-bg"></div>
+                  </div>
+                </div>
+              </a>
+            </div>
+
+            <div class="portfolio card" data-cat="card">
+              <a href="http://renaceriviera.com/" target="_blank">
+                <div class="portfolio-wrapper">			
+                  <img src="<?php echo $url?>views/images/renace2.jpg" alt="" />
+                  <div class="label">
+                    <div class="label-text">
+                      <a class="tituloProyecto">Renace Aesthetics</a>
+                      <!--<span class="text-category">APP</span>-->
+                    </div>
+                    <div class="label-bg"></div>
+                  </div>
+                </div>
+              </a>
+            </div>
+
+            <div class="portfolio card" data-cat="card">
+              <a href="https://glomastore.mx/" target="_blank">
+                <div class="portfolio-wrapper">			
+                  <img src="<?php echo $url?>views/images/glomastore.jpg" alt="" />
+                  <div class="label">
+                    <div class="label-text">
+                      <a class="tituloProyecto">GlomaStore</a>
+                      <!--<span class="text-category">APP</span>-->
+                    </div>
+                    <div class="label-bg"></div>
+                  </div>
+                </div>
+              </a>
+            </div>
+
+            <div class="portfolio card" data-cat="card">
+              <a href="https://medicoenlinea.mx/" target="_blank">
+                <div class="portfolio-wrapper">			
+                  <img src="<?php echo $url?>views/images/medicoenlinea.jpg" alt="" />
+                  <div class="label">
+                    <div class="label-text">
+                      <a class="tituloProyecto">Médico en Línea</a>
+                      <!--<span class="text-category">APP</span>-->
+                    </div>
+                    <div class="label-bg"></div>
+                  </div>
+                </div>
+              </a>
+            </div>
+
+            <div class="portfolio icon" data-cat="icon">
+              <div class="portfolio-wrapper">			
+                <video class="videoPortafolio videoPortafolioTamaño" src="<?php echo $url?>views/video/videoxcaret.mp4" type="video/mp4"></video>
+                <div class="label">
+                  <div class="label-text">
+                    <a class="tituloProyecto">Grupo Xcaret</a>
+                    <!--<span class="text-category">APP</span>-->
+                  </div>
+                  <div class="label-bg"></div>
+                </div>
+              </div>
+            </div>
+
+            <div class="portfolio icon" data-cat="icon">
+              <div class="portfolio-wrapper">			
+                <video class="videoPortafolio2 videoPortafolioTamaño" src="<?php echo $url?>views/video/Dann Garcia V1.mp4" type="video/mp4"></video>
+                <div class="label">
+                  <div class="label-text">
+                    <a class="tituloProyecto">Tour Gastronómico</a>
+                    <!--<span class="text-category">APP</span>-->
+                  </div>
+                  <div class="label-bg"></div>
+                </div>
+              </div>
+            </div>
+
+            <div class="portfolio icon" data-cat="icon">
+              <div class="portfolio-wrapper">			
+                <video class="videoPortafolio3 videoPortafolioTamaño" src="<?php echo $url?>views/video/Final agradecimiento covid v2.mp4" type="video/mp4"></video>
+                <div class="label">
+                  <div class="label-text">
+                    <a class="tituloProyecto">COVID-19</a>
+                    <!--<span class="text-category">APP</span>-->
+                  </div>
+                  <div class="label-bg"></div>
+                </div>
+              </div>
+            </div>
+
+            <div class="portfolio icon" data-cat="icon">
+              <div class="portfolio-wrapper">			
+                <video class="videoPortafolio10 videoPortafolioTamaño" src="<?php echo $url?>views/video/Haz que suceda, el show - Promo.mp4" type="video/mp4"></video>
+                <div class="label">
+                  <div class="label-text">
+                    <a class="tituloProyecto">Haz que suceda el show</a>
+                    <!--<span class="text-category">APP</span>-->
+                  </div>
+                  <div class="label-bg"></div>
+                </div>
+              </div>
+            </div>
+
+            <div class="portfolio icon" data-cat="icon">
+              <div class="portfolio-wrapper">			
+                <video class="videoPortafolio6 videoPortafolioTamaño" src="<?php echo $url?>views/video/logo lice.mp4" type="video/mp4" type="video/mp4"></video>
+                <div class="label">
+                  <div class="label-text">
+                    <a class="tituloProyecto">Lice México</a>
+                    <!--<span class="text-category">APP</span>-->
+                  </div>
+                  <div class="label-bg"></div>
+                </div>
+              </div>
+            </div>
+
+            <!--<div class="portfolio icon" data-cat="icon">
+              <div class="portfolio-wrapper">			
+                <video class="videoPortafolio8 videoPortafolioTamaño" src="video/Información Coronavirus.mp4" type="video/mp4" type="video/mp4"></video>
+                <div class="label">
+                  <div class="label-text">
+                    <a class="tituloProyecto">Grupo Xcaret COVID-19</a>
+                    <span class="text-category">APP</span>
+                  </div>
+                  <div class="label-bg"></div>
+                </div>
+              </div>
+            </div>-->
+
+            <div class="portfolio icon" data-cat="icon">
+              <div class="portfolio-wrapper">			
+                <video class="videoPortafolio5 videoPortafolioTamaño" src="<?php echo $url?>views/video/dia mujer 2020.mp4" type="video/mp4" type="video/mp4"></video>
+                <div class="label">
+                  <div class="label-text">
+                    <a class="tituloProyecto">Día de la Mujer 2020</a>
+                    <!--<span class="text-category">APP</span>-->
+                  </div>
+                  <div class="label-bg"></div>
+                </div>
+              </div>
+            </div>
+
+            <div class="portfolio icon" data-cat="icon">
+              <div class="portfolio-wrapper">			
+                <video class="videoPortafolio7 videoPortafolioTamaño" src="<?php echo $url?>views/video/Promo Muevete Youtube.mp4" type="video/mp4" type="video/mp4"></video>
+                <div class="label">
+                  <div class="label-text">
+                    <a class="tituloProyecto">Promo Muévete</a>
+                    <!--<span class="text-category">APP</span>-->
+                  </div>
+                  <div class="label-bg"></div>
+                </div>
+              </div>
+            </div>
+
+            <div class="portfolio icon" data-cat="icon">
+              <div class="portfolio-wrapper">			
+                <video class="videoPortafolio9 videoPortafolioTamaño" src="<?php echo $url?>views/video/Celia Lora Animación.mp4" type="video/mp4"></video>
+                <div class="label">
+                  <div class="label-text">
+                    <a class="tituloProyecto">Celia Lora</a>
+                    <!--<span class="text-category">APP</span>-->
+                  </div>
+                  <div class="label-bg"></div>
+                </div>
+              </div>
+            </div>
+          
           </div>
-
-        </div>
-
-        <div data-animation="slide" data-easing="ease-in-out-quint" data-hide-arrows="1" data-duration="1000" class="c-carousel1 w-slider">
-
-          <div class="c-carousel1__wrapper w-slider-mask">
-
-            <div class="w-slide itemPortafolio">
-
-              <a href="<?php echo $url?>peñoles" class="c-carousel1__content w-inline-block">
-
-                <div class="c-carousel1__item2">
-                  
-                  <img src="<?php echo $url?>views/images/porta-01.jpg" alt="" class="c-carousel1__image">
-
-                  <h4 class="c-carousel1__title">Peñoles</h4>
-
-                </div>
-
-              </a>
-
-            </div>
-
-            <div class="w-slide itemPortafolio">
-
-              <a href="<?php echo $url?>nulab" class="c-carousel1__content w-inline-block">
-
-                <div class="c-carousel1__item2">
-                  
-                  <img src="<?php echo $url?>views/images/porta-02.jpg" alt="" class="c-carousel1__image">
-
-                  <h3 class="c-carousel1__title">Nulab</h3>
-
-                </div>
-
-              </a>
-
-            </div>
-
-            <div class="w-slide itemPortafolio">
-
-              <a href="<?php echo $url?>cimaco" class="c-carousel1__content w-inline-block">
-
-                <div class="c-carousel1__item2">
-                  
-                  <img src="<?php echo $url?>views/images/porta-03.jpg" alt="" class="c-carousel1__image">
-
-                  <h3 class="c-carousel1__title">Cimaco</h3>
-
-                </div>
-
-              </a>
-
-            </div>
-
-            <div class="w-slide itemPortafolio">
-
-              <a href="<?php echo $url?>oriental-grill" class="c-carousel1__content w-inline-block">
-
-                <div class="c-carousel1__item2">
-                  
-                  <img src="<?php echo $url?>views/images/porta-04.jpg" alt="" class="c-carousel1__image">
-
-                  <h3 class="c-carousel1__title">Oriental Grill</h3>
-
-                </div>
-
-              </a>
-
-            </div>
-
-            <div class="w-slide itemPortafolio">
-
-              <a href="<?php echo $url?>looper" class="c-carousel1__content w-inline-block">
-
-                <div class="c-carousel1__item2">
-                  
-                  <img src="<?php echo $url?>views/images/porta-05.jpg" alt="" class="c-carousel1__image">
-
-                  <h3 class="c-carousel1__title">Looper</h3>
-
-                </div>
-
-              </a>
-
-            </div>
-
-            <div class="w-slide itemPortafolio">
-
-              <a href="dulce-nostalgia" class="c-carousel1__content w-inline-block">
-
-                <div class="c-carousel1__item2">
-                  
-                  <img src="<?php echo $url?>views/images/porta-06.jpg" alt="" class="c-carousel1__image">
-
-                  <h3 class="c-carousel1__title">Dulce Nostalgia</h3>
-
-                </div>
-
-              </a>
-
-            </div>
-
-            <div class="w-slide itemPortafolio">
-
-              <a href="<?php echo $url?>lucuma" class="c-carousel1__content w-inline-block">
-
-                <div class="c-carousel1__item2">
-                  
-                  <img src="<?php echo $url?>views/images/porta-07.jpg" alt="" class="c-carousel1__image">
-
-                  <h3 class="c-carousel1__title">Lúcuma</h3>
-
-                </div>
-
-              </a>
-
-            </div>
-
-            <div class="w-slide itemPortafolio">
-
-              <a href="<?php echo $url?>gf-24" class="c-carousel1__content w-inline-block">
-
-                <div class="c-carousel1__item2">
-                  
-                  <img src="<?php echo $url?>views/images/porta-08.jpg" alt="" class="c-carousel1__image">
-
-                  <h3 class="c-carousel1__title">GF24</h3>
-
-                </div>
-
-              </a>
-
-            </div>
-
-            <div class="w-slide itemPortafolio">
-
-              <a href="<?php echo $url?>la-pampa" class="c-carousel1__content w-inline-block">
-
-                <div class="c-carousel1__item2">
-                  
-                  <img src="<?php echo $url?>views/images/porta-09.jpg" alt="" class="c-carousel1__image">
-
-                  <h3 class="c-carousel1__title">La Pampa</h3>
-
-                </div>
-
-              </a>
-
-            </div>
-
-            <div class="w-slide itemPortafolio">
-
-              <a href="<?php echo $url?>malbicho" class="c-carousel1__content w-inline-block">
-
-                <div class="c-carousel1__item2">
-                  
-                  <img src="<?php echo $url?>views/images/porta-10.jpg" alt="" class="c-carousel1__image">
-
-                  <h3 class="c-carousel1__title">Malbicho</h3>
-
-                </div>
-
-              </a>
-
-            </div>
-
-          </div>
-
-          <div class="w-slider-arrow-left">
-
-            <div class="c-carousel1__left-arrow w-icon-slider-left"></div>
-
-          </div>
-
-          <div class="c-carousel1-2__right-arrow w-slider-arrow-right">
-
-            <div class="c-carousel1__right-arrow w-icon-slider-right"></div>
-
-          </div>
-
-          <div class="c-carousel1__nav w-slider-nav w-slider-nav-invert w-round"></div>
-
-        </div>
-
-      </div>
 
     </div>
   
   </div>
 
+</div>
+  
   <div class="section position-relative">
 
     <div class="container">
@@ -584,6 +416,6 @@
 
       </div>
 
-      <div class="col lg-2 md-12"><a href="<?php echo $url?>contacto" class="w-inline-block"><img src="<?php echo $url?>views/images/circle-button.svg" alt=""></a></div>
+      <div class="col lg-2 md-12"><a href="contacto" class="w-inline-block"><img src="images/circle-button.svg" alt=""></a></div>
 
-    </div><img src="<?php echo $url?>views/images/Group-1.svg" alt="" class="bg-decoration7"></div>
+    </div><img src="images/Group-1.svg" alt="" class="bg-decoration7"></div>

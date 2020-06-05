@@ -61,6 +61,7 @@
                                         // Colocar dentro del ul del diseño de tu Nav el siguiente código PHP
                                         $item = null;
                                         $valor = null;
+                                        $i = 0; // contador
                     
                                         $paginas = ControladorPaginas::ctrMostrarPaginas($item, $valor);
                     
@@ -73,6 +74,8 @@
                                             <a href="'.$value["ruta"].'" class="nav-link w-nav-link navsHome">'.$value["nombre"].'</a>
                                             
                                             ';
+
+                                        if (++$i == 5) break; //termina de contar solo las páginas que irán en el menú
                     
                                         }
                     
@@ -123,6 +126,7 @@
                                         // Colocar dentro del ul del diseño de tu Nav el siguiente código PHP
                                         $item = null;
                                         $valor = null;
+                                        $i = 0; // contandor
                     
                                         $paginas = ControladorPaginas::ctrMostrarPaginas($item, $valor);
                     
@@ -135,6 +139,8 @@
                                             <a href="'.$value["ruta"].'" class="nav-link w-nav-link">'.$value["nombre"].'</a>
                                             
                                             ';
+
+                                        if (++$i == 5) break; //termina de contar solo las páginas que irán en el menú
                     
                                         }
                     
@@ -172,7 +178,7 @@
             
                             <div>
                             
-                                <a href="index"><img class="logo" id="logoNav" src="http://localhost/rehilete/rehilete/views/icons/logo-rehilete-03.png" alt="logo Rehilete" width="27%"></a>
+                                <a href="index"><img class="logo" id="logoNav" src="http://localhost/rehilete/rehilete/views/icons/logo-rehilete-04.png" alt="logo Rehilete" width="27%"></a>
                         
                             </div>
             
@@ -187,6 +193,7 @@
                                 // Colocar dentro del ul del diseño de tu Nav el siguiente código PHP
                                 $item = null;
                                 $valor = null;
+                                $i = 0; // contandor
             
                                 $paginas = ControladorPaginas::ctrMostrarPaginas($item, $valor);
             
@@ -199,6 +206,8 @@
                                     <a href="'.$value["ruta"].'" class="nav-link w-nav-link navsHome">'.$value["nombre"].'</a>
                                     
                                     ';
+
+                                if (++$i == 5) break; //termina de contar solo las páginas que irán en el menú
             
                                 }
             

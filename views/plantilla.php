@@ -49,7 +49,7 @@
             =            NAV          =
             =============================================*/
 
-            include "modulos/nav.php"; // Ruta del archivo
+            include "modulos/default/nav.php"; // Ruta del archivo
 
                 /*==============================================
                 =             Contenido dinamico                =
@@ -105,10 +105,50 @@
                             case 'contacto':
                                 include "modulos/contacto.php"; // Ruta del archivo de la página
                                 break;
+
+                            case 'cimaco':
+                                include "modulos/cimaco.php"; // Ruta del archivo de la página
+                                break;
+
+                            case 'dulce-nostalgia':
+                                include "modulos/dulce-nostalgia.php"; // Ruta del archivo de la página
+                                break;
+
+                            case 'gf-24':
+                                include "modulos/gf-24.php"; // Ruta del archivo de la página
+                                break;
+
+                            case 'la-pampa':
+                                include "modulos/la-pampa.php"; // Ruta del archivo de la página
+                                break;
+
+                            case 'looper':
+                                include "modulos/looper.php"; // Ruta del archivo de la página
+                                break;
+
+                            case 'lucuma':
+                                include "modulos/lucuma.php"; // Ruta del archivo de la página
+                                break;
+
+                            case 'malbicho':
+                                include "modulos/malbicho.php"; // Ruta del archivo de la página
+                                break;
+
+                            case 'nulab':
+                                include "modulos/nulab.php"; // Ruta del archivo de la página
+                                break;
+
+                            case 'oriental-grill':
+                                include "modulos/oriental-grill.php"; // Ruta del archivo de la página
+                                break;
+
+                            case 'penoles':
+                                include "modulos/penoles.php"; // Ruta del archivo de la página
+                                break;
                             
                             // Página de error 404   
                             default:
-                                include "modulos/404.php"; // Ruta del archivo
+                                include "modulos/default/404.php"; // Ruta del archivo
                                 break;
 
                         }
@@ -125,7 +165,7 @@
             =            Footer          =
             =============================================*/
 
-            include "modulos/footer.php"; // Ruta del archivo
+            include "modulos/default/footer.php"; // Ruta del archivo
 
         ?>
 
@@ -151,6 +191,10 @@
 <script src="<?php echo $url?>views/js/backtotop.js"></script>
 
 <script src="<?php echo $url?>views/js/videoPortafolio.js"></script>
+
+<script src="<?php echo $url?>views/js/jquery.mixitup.min.js"></script>
+
+<script src="<?php echo $url?>views/js/portafolio.js"></script>
 
 <a id="back-to-top" href="#" class="btn btn-light btn-lg back-to-top" role="button" name="botonTop" style="display: inline;"><i class="fas fa-chevron-up"></i></a>
 

@@ -84,7 +84,7 @@
       <div class="col lg-6 md-12 text-align-center">
 
         
-        <img src="<?php echo $url?>views/images/diseño.png" width="65%" alt="">
+        <img src="<?php echo $url?>views/images/diseno2.png" width="65%" alt="">
           
 
       </div>
@@ -364,7 +364,7 @@
         <div class="col lg-6 md-12 text-align-center">
 
         
-          <img src="<?php echo $url?>views/images/campañas2.png" width="75%" alt="">
+          <img src="<?php echo $url?>views/images/campanas2.png" width="75%" alt="">
             
   
         </div>
@@ -521,7 +521,7 @@
         <div class="col lg-6 md-12 text-align-center">
   
           
-          <img src="<?php echo $url?>views/images/animación.png" width="65%" alt="">
+          <img src="<?php echo $url?>views/images/animacion2.png" width="65%" alt="">
             
   
         </div>
@@ -618,7 +618,7 @@
         <div class="col lg-6 md-12 text-align-center" style="padding-top: 90px;">
   
           
-          <img src="<?php echo $url?>views/images/asesoría.png" width="70%" alt="">
+          <img src="<?php echo $url?>views/images/asesoria.png" width="70%" alt="">
             
   
         </div>
