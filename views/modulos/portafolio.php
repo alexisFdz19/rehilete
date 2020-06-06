@@ -381,7 +381,7 @@
 
             <div class="portfolio icon" data-cat="icon">
               <div class="portfolio-wrapper">			
-                <video class="videoPortafolio9 videoPortafolioTamaño" src="<?php echo $url?>views/video/Celia Lora Animación.mp4" type="video/mp4"></video>
+                <video class="videoPortafolio9 videoPortafolioTamaño" src="<?php echo $url?>views/video/Celia-Lora-Animacion.mp4" type="video/mp4"></video>
                 <div class="label">
                   <div class="label-text">
                     <a class="tituloProyecto">Celia Lora</a>
