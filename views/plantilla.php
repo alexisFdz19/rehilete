@@ -20,6 +20,7 @@
     <meta content="width=device-width, initial-scale=1" name="viewport">
     <meta content="Webflow" name="generator">
     <meta name="theme-color" content="#19C1DD"/>
+    <meta name="google-site-verification" content="daurpHRLtoN9JNRDjNCDsTprdVBtq4tu_EeMceD38bk" />
 
     <!-- **Font Awesome** -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.css" integrity="sha256-PF6MatZtiJ8/c9O9HQ8uSUXr++R9KBYu4gbNG5511WE=" crossorigin="anonymous" />
@@ -30,6 +31,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300&display=swap" rel="stylesheet">
     <link href="<?php echo $url?>views/css/animate.css" rel="stylesheet" type="text/css">
     <link href="<?php echo $url?>views/css/testimonial.css" rel="stylesheet" type="text/css">
+    <link href="<?php echo $url?>views/css/carousel.css" rel="stylesheet" type="text/css">
 
     <link href="<?php echo $url?>views/icons/icono.png" rel="shortcut icon" type="image/x-icon">
     <link href="<?php echo $url?>views/icons/icono.png" rel="apple-touch-icon">
@@ -195,6 +197,8 @@
 <script src="<?php echo $url?>views/js/jquery.mixitup.min.js"></script>
 
 <script src="<?php echo $url?>views/js/portafolio.js"></script>
+
+<script src="<?php echo $url?>views/js/carousel.js"></script>
 
 <a id="back-to-top" href="#" class="btn btn-light btn-lg back-to-top" role="button" name="botonTop" style="display: inline;"><i class="fas fa-chevron-up"></i></a>
 

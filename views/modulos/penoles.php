@@ -58,7 +58,7 @@
 
               <div class="quote style2 text-align-center margin-bottom-double block-centered">
 
-                <img src="<?php echo $url?>views/images/portafolio/peñoles1.jpg" alt="" class="imagenProyecto">
+                <img src="<?php echo $url?>views/images/portafolio/penoles1.jpg" alt="" class="imagenProyecto">
 
               </div>
 
@@ -74,7 +74,7 @@
 
               <div class="quote style2 text-align-center margin-bottom-double block-centered">
 
-                <img src="<?php echo $url?>views/images/portafolio/peñoles2.jpg" alt="" class="imagenProyecto">
+                <img src="<?php echo $url?>views/images/portafolio/penoles2.jpg" alt="" class="imagenProyecto">
 
               </div>
 
