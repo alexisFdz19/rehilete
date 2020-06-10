@@ -31,6 +31,8 @@
     <link href="<?php echo $url?>views/css/animate.css" rel="stylesheet" type="text/css">
     <link href="<?php echo $url?>views/css/testimonial.css" rel="stylesheet" type="text/css">
     <link href="<?php echo $url?>views/css/carousel.css" rel="stylesheet" type="text/css">
+    <link href="<?php echo $url?>views/css/slick.css" rel="stylesheet" type="text/css">
+    <link href="<?php echo $url?>views/css/slick-theme.css" rel="stylesheet" type="text/css">
 
     <link href="<?php echo $url?>views/icons/icono.png" rel="shortcut icon" type="image/x-icon">
     <link href="<?php echo $url?>views/icons/icono.png" rel="apple-touch-icon">
@@ -198,6 +200,8 @@
 <script src="<?php echo $url?>views/js/portafolio.js"></script>
 
 <script src="<?php echo $url?>views/js/carousel.js"></script>
+
+<script src="<?php echo $url?>views/js/slick.js"></script>
 
 <a id="back-to-top" href="#" class="btn btn-light btn-lg back-to-top" role="button" name="botonTop" style="display: inline;"><i class="fas fa-chevron-up"></i></a>
 

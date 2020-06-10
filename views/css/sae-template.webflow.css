@@ -915,6 +915,11 @@ figcaption {
   padding-bottom: 48px;
 }
 
+.section2 {
+  padding-top: 96px;
+  padding-bottom: 0px;
+}
+
 .section.no-padding-bottom.margin-bottom-negative {
   margin-bottom: -100px;
 }
@@ -4862,7 +4867,23 @@ figcaption {
   }
 }
 
+@media (min-width: 480px) {
+
+  .sliderMovil{
+
+    display: none;
+
+  }
+
+}
+
 @media (max-width: 479px) {
+
+  .sliderNoMovil{
+
+    display: none;
+
+  }
 
   .imagenProyecto{
 

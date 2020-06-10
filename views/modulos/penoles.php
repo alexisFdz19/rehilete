@@ -1,4 +1,4 @@
-  <div class="section is-header">
+  <div class="section is-header" style="padding-bottom: 0px;">
 
     <div class="container">
 
@@ -32,7 +32,7 @@
 
     </div>-->
 
-    <div class="container margin-bottom-double">
+    <div class="container">
 
       <div class="col lg-12">
 
@@ -44,7 +44,7 @@
 
     </div>
 
-    <div class="section position-relative no-padding-top">
+    <div class="section position-relative no-padding-top sliderNoMovil">
 
       <div data-animation="slide" data-easing="ease-in-out-quint" data-hide-arrows="1" data-duration="1000" class="c-carousel3 margin-bottom-double w-slider">
 
@@ -100,6 +100,34 @@
 
       </div>
     
+    </div>
+
+  </div>
+
+  <div class="section2 position-relative no-padding-top sliderMovil">
+
+    <!--<div class="col lg-12">
+
+      <button type="button" class="top-arrow" style="display: inline-block;"><div class="c-carousel3__left-arrow w-icon-slider-left"></div></button>
+
+      <button type="button" data-role="none" class="bottom-arrow" aria-label="Next" role="button" style="display: inline-block;" aria-disabled="false"> <div class="c-carousel3__right-arrow w-icon-slider-right"></div></button>
+
+    </div>-->
+
+    <div class="slick-carousel">
+
+      <div>
+
+        <img src="<?php echo $url?>views/images/portafolio/penoles1.jpg" class="img-responsive">
+
+      </div>
+
+      <div>
+        
+        <img src="<?php echo $url?>views/images/portafolio/penoles2.jpg"  class="img-responsive">
+
+      </div>
+
     </div>
 
   </div>
