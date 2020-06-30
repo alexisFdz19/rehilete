@@ -245,20 +245,20 @@
               </a>
             </div>
 
-            <div class="portfolio card" data-cat="card">
+            <!--<div class="portfolio card" data-cat="card">
               <a href="https://glomastore.mx/" target="_blank">
                 <div class="portfolio-wrapper">			
-                  <img src="<?php echo $url?>views/images/glomastore.jpg" alt="" />
+                  <img src="<?php // echo $url?>views/images/glomastore.jpg" alt="" />
                   <div class="label">
                     <div class="label-text">
                       <a class="tituloProyecto">GlomaStore</a>
-                      <!--<span class="text-category">APP</span>-->
+                      <span class="text-category">APP</span>
                     </div>
                     <div class="label-bg"></div>
                   </div>
                 </div>
               </a>
-            </div>
+            </div>-->
 
             <div class="portfolio card" data-cat="card">
               <a href="https://medicoenlinea.mx/" target="_blank">
